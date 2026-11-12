@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HTTPClient/HTTPClient.csproj" />
+  <Project Path="HTTPServer/HTTPServer.csproj" />
+</Solution>
